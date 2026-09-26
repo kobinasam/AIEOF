@@ -1,4 +1,4 @@
-# QinggeLab-AIEOF
+# A-IEOF
 Anchored Interventional Equalized-Odds Fairness for Feature Addition
 
 ---
